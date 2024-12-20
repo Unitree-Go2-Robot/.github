@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1280" height="420" src="https://github.com/IntelligentRoboticsLabs/go2_robot/assets/44479765/da616d77-cf4d-4acf-af2f-adc99f4f72d7)" alt='Go2 point cloud'>
+</p>
+
 We are the Intelligent Robotics Lab, a team of robotics researchers from the Rey Juan Carlos University with experience in participating in several robotics competitions. We have more than 10 years of experience in robotic software development, development and training in ROS; and more than 5 years of experience in ROS2. Here are the packages of our implementation of the Go2 robot.
 </p>
 <p align="center"> 
